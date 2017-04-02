@@ -1,0 +1,87 @@
+body
+{
+  overflow-x:hidden;
+  border:none;
+}
+b
+{
+  text-align:center;
+  font-size:18px;
+  font-weight:normal;
+}
+#main
+{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:auto;
+  text-align:center;
+  margin:0 auto;
+}
+#header
+{
+  background:#999;
+  color:white;
+  font-size:4em;
+  text-align:center;
+  padding:20px;
+}
+#sd1
+{
+  float:left;
+  width:24.5%;
+  height:700px;/* Only When No Content */
+  background:#a1887f  ;
+  color:white;
+  text-align:center;
+  font-size:2em;
+  border: #093;
+}
+#content
+{
+  float:left;
+  width:75.5%;
+  height:700px;
+  background:white ;
+  color:white;
+  text-align:center;
+  font-size:2em;
+}
+
+
+@media screen and (min-device-width:128px) and (max-device-width:480px)
+    {
+  #sd1,#sd2
+  {
+    width:0 !important;
+    height:0 !important;
+  }
+  #content
+  {
+    width:100%;
+  }
+}
+
+.product-table{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16;
+	padding:0;
+	border-collapse:collapse;
+	background-color:#FFF;
+	overflow:hidden;
+}
+.product-table tr, .product-table tr td{
+	border:1px solid #a1887f;
+	overflow:hidden;
+}
+
+.sidtxt{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	color:#FFF;
+	border:none;
+	border-color:a1887f;
+	
+	
+	}

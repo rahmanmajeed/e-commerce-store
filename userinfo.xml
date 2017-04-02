@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<INFORMATION>
+ <information firstname="Mehedi" lastname="Islam" phone="01735108437" address="Mirpur-6, Dhaka" gender="male"/>
+ <information firstname="Jerin" lastname="Khan" phone="01835108437" address="Banani, Dhaka" gender="Female"/>
+ <information firstname="Bilkis" lastname="Banu" phone="01673554569" address="Nikunjo" gender="Female"/>
+ <information firstname="Majedur" lastname="Rahman" phone="01673554569" address="kazipara, Mirpur" gender="Male"/>
+ <information firstname="Mr." lastname="Anik" phone="01735108437" address="Mirpur-14, Dhaka" gender="Male"/>
+ <information firstname="Jaber" lastname="Sajib" phone="01735108437" address="Mohakhali, Dhaka" gender="Male"/>
+ <information firstname="Md." lastname="Sayem" phone="01731411365" address="a.sayem35@ovi.com" gender="Male"/>
+ <information firstname="amir sazzad" lastname="sohan" phone="01680255502" address="Banani, Dhaka" gender="Male"/>
+</INFORMATION>

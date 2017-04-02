@@ -1,0 +1,35 @@
+
+.s-ul
+{
+list-style: none;
+margin: 17px 20px 20px 24px;
+width: 330px;
+}
+.s-ul li
+{
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+display: block;
+padding: 5px;
+background-color: #ccc;
+border-bottom: 1px solid #367;
+}
+#content
+{
+padding:50px;
+width:500px; border:1px solid #666;
+float:left;
+}
+#clear
+{ clear:both; }
+#box
+{
+float:left;
+margin:0 0 20px 0;
+text-align:justify;
+}
+.s-input[type=text]
+{width:330px; height:35px;}
+.s-input[type=submit]
+{
+width:90px; height:35px;
+}
